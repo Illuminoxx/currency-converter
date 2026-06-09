@@ -1,5 +1,4 @@
 
 import Inputbox from './Inputbox'
 
-export {Inputbox}
-
+export { default as Inputbox } from "./Inputbox";
