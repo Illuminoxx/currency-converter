@@ -62,7 +62,7 @@ if (options.length === 0) {
         "url('https://4kwallpapers.com/images/walls/thumbs_3t/13833.jpg')",
     }}
   >
-  <h1 className="text-4xl sm:text-6xl font-bold text-center mb-6 tracking-wide ml-4">
+  <h1 className="text-4xl sm:text-6xl font-bold text-center mb-6 tracking-wide -ml-18">
     
   <span className="text-teal-400"> 💲Currency</span>{" "}
   <span className="text-white">Exchange</span>
