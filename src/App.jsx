@@ -1,6 +1,6 @@
 import { useState } from 'react'
  import { useMemo } from "react";
-import { Inputbox } from './components'
+import { Inputbox } from "./components";
 import usecurrencyinfo from './hooks/currencyinfo'
 
 
